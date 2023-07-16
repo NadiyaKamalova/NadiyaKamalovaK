@@ -6,4 +6,4 @@ Students:
 4. Mariy
 5. Anton
 6. Marina
-7. Maksim
+7. Alexey
